@@ -1,6 +1,6 @@
 # TAMU-projects
 
-I worked on the following projects as assignments for my classes at Texas A&M University:
+I worked on the following projects as assignments for my classes at Texas A&M University. Please abide by the Aggie Honor Code!
 
 -----
 **CSCE 110 "Introduction to Programming"**
